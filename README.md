@@ -21,5 +21,17 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 *   **Find GCD of two numbers**:
     > Given two non-negative integers `n1` and `n2`, find their greatest common divisor (GCD).*
 
+### Day 3
+*   **Print 1 to N using Recursion**:
+    > Print numbers from 1 to N using a recursive function.
+*   **Print N to 1 using Recursion**:
+    > Print numbers from N to 1 using a recursive function.
+*   **Sum of first N Natural Numbers**:
+    > Given an integer N, find the sum of the first N natural numbers.
+*   **Factorial of a Number**:
+    > Given an integer N, find its factorial.
+*   **Check if a number is Prime**:
+    > Given an integer N, determine if it is a prime number.*
+
 ---
 *This log will be updated daily.*
