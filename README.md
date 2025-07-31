@@ -45,5 +45,19 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 *   **Count Frequency of Each Element**:
     > Given an array, count the frequency of each element in the array.
 
+### Day 6
+*   **Exploring Map Implementations**:
+    > Practiced using `HashMap`, `LinkedHashMap`, and `TreeMap` to understand their distinct behaviors and use cases in Java.
+
+#### Key Differences: `HashMap` vs. `LinkedHashMap` vs. `TreeMap`
+
+| Feature          | HashMap                                                  | LinkedHashMap                                                | TreeMap                                                                    |
+| :--------------- | :------------------------------------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------------------- |
+| **Ordering**     | Unordered                                                | Insertion Order                                              | Sorted Order (Natural or by Comparator)                                    |
+| **Performance**  | O(1) for `get`/`put` (average)                           | O(1) for `get`/`put` (average)                               | O(log n) for `get`/`put`                                                   |
+| **Implementation** | Hash Table                                               | Hash Table + Doubly-Linked List                              | Red-Black Tree                                                             |
+| **Nulls**        | 1 `null` key, multiple `null` values                     | 1 `null` key, multiple `null` values                         | No `null` keys (natural order), multiple `null` values                     |
+| **Use Case**     | Fast lookups where order doesn't matter.                 | Caches or maintaining insertion sequence.                    | When a map sorted by its keys is required.                                 |
+
 ---
 *This log will be updated daily.*
