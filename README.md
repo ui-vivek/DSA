@@ -33,5 +33,17 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 *   **Check if a number is Prime**:
     > Given an integer N, determine if it is a prime number.*
 
+### Day 4
+*   **Fibonacci Number**:
+    > Write a function to find the Nth Fibonacci number.
+*   **Check if a string is a Palindrome**:
+    > Given a string, check if the string is a palindrome or not. A string is said to be a palindrome if the reverse of the string is the same as the string.
+*   **Reverse an Array**:
+    > You are given an array. The task is to reverse the array.
+
+### Day 5
+*   **Count Frequency of Each Element**:
+    > Given an array, count the frequency of each element in the array.
+
 ---
 *This log will be updated daily.*
