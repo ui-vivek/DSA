@@ -18,6 +18,8 @@ public class Linkedhashmap {
                 map.put(arr[i], 1);
             }
         }
+        // We can add
+        map.put(null, 3);
         System.out.println(map);
     }
 }

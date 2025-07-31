@@ -5,6 +5,6 @@ function formatString(str) {
     .join("");
 }
 
-const input = "Count frequency of each element in the array";
+const input = "Find the highest/lowest frequency element";
 const result = formatString(input);
 console.log(result);

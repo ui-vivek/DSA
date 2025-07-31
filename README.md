@@ -46,6 +46,8 @@ This repository tracks my daily progress in solving Data Structures and Algorith
     > Given an array, count the frequency of each element in the array.
 
 ### Day 6
+*   **Find the Highest/Lowest Frequency Element**:
+    > Given an array of integers, find the elements that have the highest and lowest frequency.
 *   **Exploring Map Implementations**:
     > Practiced using `HashMap`, `LinkedHashMap`, and `TreeMap` to understand their distinct behaviors and use cases in Java.
 
