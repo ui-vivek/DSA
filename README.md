@@ -61,5 +61,13 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 | **Nulls**        | 1 `null` key, multiple `null` values                     | 1 `null` key, multiple `null` values                         | No `null` keys (natural order), multiple `null` values                     |
 | **Use Case**     | Fast lookups where order doesn't matter.                 | Caches or maintaining insertion sequence.                    | When a map sorted by its keys is required.                                 |
 
+### Day 7
+*   **Insertion Sort**:
+    > Implemented the insertion sort algorithm to sort an array in ascending order.
+
+### Day 8
+*   **Bubble Sort**:
+    > Implemented the bubble sort algorithm, including an optimization to stop early if the array is already sorted.
+
 ---
 *This log will be updated daily.*

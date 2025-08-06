@@ -1,6 +1,6 @@
 package day7;
 
-public class InsertionSort {
+public class SelectionSort {
     public static void main(String[] args) {
         int array[] = { 0, 0, 0, 13, 46, 24, 52, 20, 9, 9, 9, 1 };
 

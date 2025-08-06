@@ -5,6 +5,6 @@ function formatString(str) {
     .join("");
 }
 
-const input = "Find the highest/lowest frequency element";
+const input = "Bubble Sort Algorithm";
 const result = formatString(input);
 console.log(result);
