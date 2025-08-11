@@ -2,7 +2,7 @@ package day12;
 
 import java.util.ArrayList;
 
-public class MargeSort {
+public class MergeSort {
     public static void sortSmallArrays(int arr[], int st, int mid, int end) {
         ArrayList<Integer> temp = new ArrayList<>();
         int left = st;
@@ -32,16 +32,16 @@ public class MargeSort {
         }
     }
 
-    public static void margeSort(int arr[], int st, int end) {
+    public static void mergeSort(int arr[], int st, int end) {
         if (st >= end) {
             return;
         }
         int mid = (st + end) / 2;
         // half the array
         // first half
-        margeSort(arr, st, mid);
+        mergeSort(arr, st, mid);
         // second half
-        margeSort(arr, mid + 1, end);
+        mergeSort(arr, mid + 1, end);
         // then sort the both small arrays
         sortSmallArrays(arr, st, mid, end);
     }
@@ -49,7 +49,7 @@ public class MargeSort {
     public static void main(String[] args) {
         int arr[] = { 3, 2, 8, 5, 1, 4, 23 };
 
-        margeSort(arr, 0, arr.length - 1);
+        mergeSort(arr, 0, arr.length - 1);
 
         for (int x : arr) {
             System.out.print(x + " ");
