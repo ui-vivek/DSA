@@ -5,6 +5,6 @@ function formatString(str) {
     .join("");
 }
 
-const input = "Bubble Sort Algorithm";
+const input = "Remove Duplicates from Sorted Array";
 const result = formatString(input);
 console.log(result);
