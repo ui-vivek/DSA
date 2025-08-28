@@ -62,12 +62,56 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 | **Use Case**     | Fast lookups where order doesn't matter.                 | Caches or maintaining insertion sequence.                    | When a map sorted by its keys is required.                                 |
 
 ### Day 7
-*   **Insertion Sort**:
-    > Implemented the insertion sort algorithm to sort an array in ascending order.
+*   **Selection Sort**:
+    > Implemented the selection sort algorithm to sort an array in ascending order.
 
 ### Day 8
 *   **Bubble Sort**:
     > Implemented the bubble sort algorithm, including an optimization to stop early if the array is already sorted.
+
+### Day 9
+*   **Insertion Sort**:
+    > Implemented the insertion sort algorithm to sort an array in ascending order.
+
+### Day 10
+*   **Recursive Insertion Sort**:
+    > Implemented the recursive insertion sort algorithm.
+
+### Day 11
+*   **Recursive Bubble Sort**:
+    > Implemented the recursive bubble sort algorithm.
+
+### Day 12
+*   **Find the Largest Element in an Array**:
+    > Implemented a function to find the largest element in an array.
+*   **Merge Sort**:
+    > Implemented the merge sort algorithm to sort an array in ascending order.
+
+### Day 13
+*   **Find the Kth Largest Element**:
+    > Implemented a function to find the Kth largest element in an array.
+*   **Find the Second Largest Element**:
+    > Implemented a function to find the second largest element in an array without sorting.
+
+### Day 14
+*   **Find Second Smallest and Second Largest Element**:
+    > Implemented a function to find the second smallest and second largest elements in an array.
+
+### Day 15
+*   **Remove Duplicates from Sorted Array**:
+    > Implemented a function to remove duplicate elements from a sorted array in-place.
+
+### Day 16
+*   **Array Rotation**:
+    > Implemented a function to rotate an array to the left by a specified number of positions.
+
+### Day 17
+*   **Intersection of Two Arrays**:
+    > Implemented a function to find the intersection of two arrays.
+*   **Linear Search**:
+    > Implemented the linear search algorithm to find an element in an array.
+*   **Move Zeros to End**:
+    > Implemented a function to move all zeros in an array to the end while maintaining the relative order of non-zero elements.
 
 ---
 *This log will be updated daily.*
