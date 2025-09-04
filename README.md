@@ -113,5 +113,23 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 *   **Move Zeros to End**:
     > Implemented a function to move all zeros in an array to the end while maintaining the relative order of non-zero elements.
 
+### Day 18
+*   **Max Consecutive Ones**:
+    > Implemented a function to find the maximum number of consecutive ones in a binary array.
+
+### Day 19
+*   **Find the Single Number**:
+    > Implemented a function to find the single number in an array where every other number appears twice.
+
+### Day 20
+*   **Binary to Decimal Conversion**:
+    > Implemented a function to convert a binary string to its decimal equivalent.
+*   **Decimal to Binary Conversion**:
+    > Implemented a function to convert a decimal number to its binary string representation.
+*   **Bitwise Operations**:
+    > - Implemented a function to check if a number is even or odd using bitwise operators.
+    > - Implemented a function to swap two numbers without using a third variable, using XOR.
+    > - Implemented a function to count the number of set bits (1s) in a number's binary representation.
+
 ---
 *This log will be updated daily.*
