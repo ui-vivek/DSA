@@ -62,12 +62,74 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 | **Use Case**     | Fast lookups where order doesn't matter.                 | Caches or maintaining insertion sequence.                    | When a map sorted by its keys is required.                                 |
 
 ### Day 7
-*   **Insertion Sort**:
-    > Implemented the insertion sort algorithm to sort an array in ascending order.
+*   **Selection Sort**:
+    > Implemented the selection sort algorithm to sort an array in ascending order.
 
 ### Day 8
 *   **Bubble Sort**:
     > Implemented the bubble sort algorithm, including an optimization to stop early if the array is already sorted.
+
+### Day 9
+*   **Insertion Sort**:
+    > Implemented the insertion sort algorithm to sort an array in ascending order.
+
+### Day 10
+*   **Recursive Insertion Sort**:
+    > Implemented the recursive insertion sort algorithm.
+
+### Day 11
+*   **Recursive Bubble Sort**:
+    > Implemented the recursive bubble sort algorithm.
+
+### Day 12
+*   **Find the Largest Element in an Array**:
+    > Implemented a function to find the largest element in an array.
+*   **Merge Sort**:
+    > Implemented the merge sort algorithm to sort an array in ascending order.
+
+### Day 13
+*   **Find the Kth Largest Element**:
+    > Implemented a function to find the Kth largest element in an array.
+*   **Find the Second Largest Element**:
+    > Implemented a function to find the second largest element in an array without sorting.
+
+### Day 14
+*   **Find Second Smallest and Second Largest Element**:
+    > Implemented a function to find the second smallest and second largest elements in an array.
+
+### Day 15
+*   **Remove Duplicates from Sorted Array**:
+    > Implemented a function to remove duplicate elements from a sorted array in-place.
+
+### Day 16
+*   **Array Rotation**:
+    > Implemented a function to rotate an array to the left by a specified number of positions.
+
+### Day 17
+*   **Intersection of Two Arrays**:
+    > Implemented a function to find the intersection of two arrays.
+*   **Linear Search**:
+    > Implemented the linear search algorithm to find an element in an array.
+*   **Move Zeros to End**:
+    > Implemented a function to move all zeros in an array to the end while maintaining the relative order of non-zero elements.
+
+### Day 18
+*   **Max Consecutive Ones**:
+    > Implemented a function to find the maximum number of consecutive ones in a binary array.
+
+### Day 19
+*   **Find the Single Number**:
+    > Implemented a function to find the single number in an array where every other number appears twice.
+
+### Day 20
+*   **Binary to Decimal Conversion**:
+    > Implemented a function to convert a binary string to its decimal equivalent.
+*   **Decimal to Binary Conversion**:
+    > Implemented a function to convert a decimal number to its binary string representation.
+*   **Bitwise Operations**:
+    > - Implemented a function to check if a number is even or odd using bitwise operators.
+    > - Implemented a function to swap two numbers without using a third variable, using XOR.
+    > - Implemented a function to count the number of set bits (1s) in a number's binary representation.
 
 ---
 *This log will be updated daily.*
